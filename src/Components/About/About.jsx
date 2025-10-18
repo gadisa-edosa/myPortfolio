@@ -16,8 +16,8 @@ const About = () => {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>LENO</p>
-            <p>LENO</p>
+            <p>I’m a passionate Full-Stack Developer with a strong focus on building fast, scalable, and user-friendly web applications. I specialize in JavaScript, React, Node.js, and modern frameworks that bring ideas to life on both frontend and backend.</p>
+            <p>With a problem-solving mindset and clean-code principles, I enjoy turning complex challenges into efficient digital solutions.</p>
           </div>
           <div className="about-skills">
             <div className="about-skill"><p>HTML & CSS</p><hr style={{width: "50%"}} /></div>
@@ -34,12 +34,12 @@ const About = () => {
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>20+</h1>
+          <h1>10+</h1>
           <p>PROJECTS COMPLETED</p>
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>10+</h1>
+          <h1>6+</h1>
           <p>HAPPY CLIENTS</p>
         </div>         
       </div>      
